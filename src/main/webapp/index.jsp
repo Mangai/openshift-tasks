@@ -116,10 +116,10 @@
                   </div>
                 </div>
                 <p>
-                  <button class="btn btn-danger btn-block" type="button" id="toggle">Toggle Health</button>
+                  <button class="btn btn-danger btn-block" type="button" id="toggle">Toggle Health!!!</button>
                 </p>
                 <p>
-                  <button class="btn btn-danger btn-block" type="button" id="kill">Kill Instance</button>
+                  <button class="btn btn-danger btn-block" type="button" id="kill">Kill Instance!!!</button>
                 </p>
               </div>
             </div>
